@@ -108,6 +108,7 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
+  cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -201,6 +202,7 @@ body {
   text-align: center;
   color: var(--main-title-color);
   background-color: #f5f4fa;
+  cursor: pointer;
 }
 
 .portfolio-btn:hover,

@@ -206,13 +206,13 @@ body {
 }
 
 .portfolio-btn:hover,
-.portfolio-btn :focus {
+.portfolio-btn:focus {
   color: var(--second-title-color);
   background-color: var(--accent-color);
 }
 
-.portfolio-link :hover,
-.portfolio-link :focus {
+.portfolio-link:hover,
+.portfolio-link:focus {
   color: var(--accent-color);
 }
 
